@@ -1,2 +1,2 @@
 # Vision-Transformer-on-CIFAR
-This is my implementation of Vision Transformer on CIFAR-10 dataset.
+This project involves implementing the Vision Transformer (ViT) model on the CIFAR-10 dataset. The Vision Transformer is a cutting-edge model that applies the principles of transformers, typically used in NLP, to image classification tasks. By leveraging the ViT architecture, this project aims to explore its effectiveness and performance on the CIFAR-10 dataset, which is a widely used benchmark dataset consisting of 60,000 32x32 color images across 10 different classes. The implementation includes model training, and evaluation to highlight the advantages and challenges of using transformer-based architectures in computer vision.
